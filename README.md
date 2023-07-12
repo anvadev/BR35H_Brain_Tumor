@@ -1,9 +1,10 @@
+<p align="left">
 # BRAIN TUMOR DETECTION
 
 ### Capstone Phase 5 Project
 
 ### Name: Ansel Vallejo
-
+</p>
 ***
 _Source:_ <br>
   > **Dataset:** _Brain Tumor Detection_ <br>
