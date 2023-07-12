@@ -4,20 +4,22 @@
 
 ### Name: Ansel Vallejo
 
+***
 _Source:_ <br>
   > **Dataset:** _Brain Tumor Detection_ <br>
   > **Author:** _Ahmed Hamada_ <br>
   > **Website:** _Kaggle_ <br>
   > **URL:** _https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection_ <br>
-
+***
+<br> 
+<br>
+***
 **Algorithm Implemented:** _Convolutional Neural Network ("CNN") (Deep Learning)_
 **Data type:** _Unstructured_ 
-***
-<br>
+
 <br>
 
-
-**Data Classification:* <br>
+**Data Classification:** <br>
 > **NO** (no tumor) - classified as **0** <br>
 > **YES** (yes tumor) - classified as **1** <br>
 
@@ -25,7 +27,7 @@ _Source:_ <br>
 **Model Accuracy:** approx. **99%**
 
 **Brain Tumor Detection v.1.0.0 (Beta):** _Work in Progress_ <br>
-
+***
 
   ## Overview <br>
   In the medical field, Brain tumor is seen as a serious, abnormal growth of cells in or near the brain that can be either benign, which is non-cancerous or malignant, which is cancerous. There are many treatments an individual with such tumor can receive, such as radiation therapy, chemotherapy, therapeutic drug, etc. Brain tumor can be seen via Magnetic Resonance Imaging (MRI) scanned images. Human error is prone to occur in any industry, and because of such error in the medical field can cost a life. To detect and identify whether there is an absence of abnormal cell growth without human intervention would be to build a robust deep learning model to help the medical practitioner properly classify a tumor from no tumor using over 3000 MRI scan trained images and testing images to help better serve the model.
