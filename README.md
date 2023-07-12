@@ -1,7 +1,7 @@
-# <p align="left"> BRAIN TUMOR DETECTION</p>
-### <p align='left'> Capstone Phase 5 Project</p>
+# <p align="right"> BRAIN TUMOR DETECTION</p>
+### <p align='right'> Capstone Phase 5 Project</p>
 
-### <p align = 'left'> Name: Ansel Vallejo </p>
+### <p align = 'right'> Name: Ansel Vallejo </p>
 
 
 ***
