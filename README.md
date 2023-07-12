@@ -44,7 +44,7 @@ _Source:_ <br>
 
 ***
 
-<p align="center">_End of document_</p>
+_<p align="center">End of document</p>_
 
 *** 
 ***
