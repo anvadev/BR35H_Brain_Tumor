@@ -39,5 +39,11 @@ _Source:_ <br>
 <p align="justify">
   Healthcare providers not utilizing Convolutional Neural Network ("CNN") models to detect brain tumors face several business problems. One significant challenge is the potential lack of accurate and efficient diagnosis. CNN models have demonstrated their effectiveness in accurately identifying brain tumors from medical imaging data, such as MRI scans. By not leveraging CNN models, healthcare providers may struggle to achieve high diagnostic accuracy, relying on manual interpretation that can be prone to errors, leading to misdiagnosis or delayed diagnosis. Every life is precious and healthcare providers have a social responsibility to provide utmost care by improving their technology infrastructure and a CNN model that can deliver 99% accuracy. Due to the nature of the industry, every percentage of accuracy is valuable; no space for errors. 
 </p>
+<br>
+<br>
+***
+_End of document_
+*** 
+***
 
   
