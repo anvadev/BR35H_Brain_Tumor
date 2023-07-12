@@ -1,10 +1,8 @@
-<p align="left">
-# BRAIN TUMOR DETECTION
+<p align="left"># BRAIN TUMOR DETECTION</p>
+<p align='left'> ### Capstone Phase 5 Project</p>
 
-### Capstone Phase 5 Project
+<p align = 'left'>### Name: Ansel Vallejo </p>
 
-### Name: Ansel Vallejo
-</p>
 
 ***
 _Source:_ <br>
