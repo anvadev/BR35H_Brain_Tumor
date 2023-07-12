@@ -11,7 +11,10 @@ _Source:_ <br>
   > **URL:** _https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection_ <br>
 
 **Algorithm Implemented:** _Convolutional Neural Network ("CNN") (Deep Learning)_
-**Data type:** _Unstructured_
+**Data type:** _Unstructured_ 
+***
+<br>
+<br>
 
 
 **Data Classification:* <br>
