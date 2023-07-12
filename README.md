@@ -11,7 +11,7 @@ _Source:_ <br>
   > **Website:** _Kaggle_ <br>
   > **URL:** _https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection_ <br>
 ***
-![image](https://github.com/anvadev/BR35H_Brain_Tumor/assets/50537930/d405c51d-8a63-4d7d-bfd9-cbaf496c480b)
+![image](https://github.com/anvadev/BR35H_Brain_Tumor/assets/50537930/92665cd2-f737-410f-9152-40010ee86513)
 
 
 ***
