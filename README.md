@@ -26,7 +26,7 @@ _Source:_ <br>
 > **YES** (yes tumor) - classified as **1** <br>
 
 **Model Used:** <font color = 'red'>brain_tumor_base_100_epochs_64_basics.h5</font> <br>
-**Model Accuracy:** approx. <b> ![#f03c15](99%) `#f03c15` </b>
+**Model Accuracy:** approx. <b> <span style="color:green"> 99% </span> </b>
 
 **Brain Tumor Detection v.1.0.0 (Beta):** _Work in Progress_ <br>
 ***
