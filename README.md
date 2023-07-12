@@ -13,8 +13,9 @@ _Source:_ <br>
 ***
 <br> 
 <br>
+
 ***
-**Algorithm Implemented:** _Convolutional Neural Network ("CNN") (Deep Learning)_
+**Algorithm Implemented:** _Convolutional Neural Network ("CNN") (Deep Learning)_<br>
 **Data type:** _Unstructured_ 
 
 <br>
