@@ -48,13 +48,13 @@ _Source:_ <br>
   The model serves as the first pair of eyes for health providers to detect whether a patient has a Brain Tumor at its early stages. Healthcare providers have a social responsibility to provide utmost care to its patients and by improving and or enhancing their technological infrastructure, by adopting this model, they can administer proper care with high accuracy while reducing cost for both the patient and healthcare provider, time it takes to diagnose, reduce human interpretability and subjectivity. On the other hand, the advantages associated with adopting this model would be efficient, accurate, reduction of cost for both parties, and improve the outcome of patient care.
 </p>  
 
-### Disadvantages of not adopting the model
+#### <i>Disadvantages of not adopting the model</i>
 <p align="justify">
 There are several key disadvantages of not adopting a model, as the one proposed:
 <ul>
-  <li> **Time** - CNN models can analyze large volumes of medical imaging data quickly, allowing for faster diagnosis and treatment planning. Without leveraging CNN models, healthcare providers may experience delays in diagnosing brain tumors, which can impact patient outcomes and increase healthcare costs.</li>
-  <li> **Diagnostic** - CNN models have shown promising results in accurately identifying brain tumors from medical imaging data, such as MRI scans. By not utilizing CNN models, healthcare providers may face challenges in achieving high diagnostic accuracy. Manual interpretation of medical images by radiologists or other healthcare professionals may be prone to errors, leading to misdiagnosis or delayed diagnosis.</li>
-  <li> **Detection** - Brain tumors can be challenging to detect in their early stages, as they may be small, have subtle features, or resemble normal brain tissue. Without a CNN model's ability to analyze data at a high resolution and identify subtle patterns, there is a higher risk of missing early-stage tumors. Early detection is crucial for better treatment outcomes and improved patient survival rates.</li>
+  <li> <b>Time</b> - CNN models can analyze large volumes of medical imaging data quickly, allowing for faster diagnosis and treatment planning. Without leveraging CNN models, healthcare providers may experience delays in diagnosing brain tumors, which can impact patient outcomes and increase healthcare costs.</li>
+  <li> <b>Diagnostic</b> - CNN models have shown promising results in accurately identifying brain tumors from medical imaging data, such as MRI scans. By not utilizing CNN models, healthcare providers may face challenges in achieving high diagnostic accuracy. Manual interpretation of medical images by radiologists or other healthcare professionals may be prone to errors, leading to misdiagnosis or delayed diagnosis.</li>
+  <li> <b>Detection</b> - Brain tumors can be challenging to detect in their early stages, as they may be small, have subtle features, or resemble normal brain tissue. Without a CNN model's ability to analyze data at a high resolution and identify subtle patterns, there is a higher risk of missing early-stage tumors. Early detection is crucial for better treatment outcomes and improved patient survival rates.</li>
 </ul>  
 ***
 
