@@ -35,7 +35,7 @@ _Source:_ <br>
 <p align="justify">
   In the medical field, Brain tumor is seen as a serious, abnormal growth of cells in or near the brain that can be either benign, which is non-cancerous or malignant, which is cancerous. There are many treatments an individual with such tumor can receive, such as radiation therapy, chemotherapy, therapeutic drug, etc. Brain tumor can be seen via Magnetic Resonance Imaging (MRI) scanned images. Human error is prone to occur in any industry, and because of such error in the medical field can cost a life. To detect and identify whether there is an absence of abnormal cell growth without human intervention would be to build a robust deep learning model to help the medical practitioner properly classify a tumor from no tumor using over 3000 MRI scan trained images and validated images to help better serve the model.
   </p>
-
+  <br>
   ## Business Problem <br>
 <p align="justify">
   Healthcare providers not utilizing Convolutional Neural Network ("CNN") models to detect brain tumors face several business problems. One significant challenge is the potential lack of accurate and efficient diagnosis. CNN models have demonstrated their effectiveness in accurately identifying brain tumors from medical imaging data, such as MRI scans. By not leveraging CNN models, healthcare providers may struggle to achieve high diagnostic accuracy, relying on manual interpretation that can be prone to errors, leading to misdiagnosis or delayed diagnosis. Every life is precious and healthcare providers have a social responsibility to provide utmost care by improving their technology infrastructure and a CNN model that can deliver 99% accuracy. Due to the nature of the industry, every percentage of accuracy is valuable; no space for errors. 
@@ -57,7 +57,6 @@ There are several key disadvantages of not adopting a model, as the one proposed
   <li> <b>Detection</b> - Brain tumors can be challenging to detect in their early stages, as they may be small, have subtle features, or resemble normal brain tissue. Without a CNN model's ability to analyze data at a high resolution and identify subtle patterns, there is a higher risk of missing early-stage tumors. Early detection is crucial for better treatment outcomes and improved patient survival rates.</li>
 </ul>  
 </p>
-<br>
 
 #### <i>Advantages of model adoption</i>
 <p align="justify">
