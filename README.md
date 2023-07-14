@@ -70,6 +70,7 @@ There are several key advantages of adopting a model, as the one proposed:
 </ul>
 </p>
 <br>
+
 ## How are MRI Images classified before training and validation?
 An MRI image to the current model is <i>A picture that is worth one word; either <b>YES</b>, or <b>NO</b>. Therefore, the images were separated into two sets; YES and NO, to help better prepare the model for training and validation.</i>
 
