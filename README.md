@@ -69,7 +69,13 @@ There are several key advantages of adopting a model, as the one proposed:
    <li> <b>Social Responsibility</b> - Advocating for the use of a brain tumor detection CNN model demonstrates the organization's commitment to ethical and social responsibility. By implementing advanced technology to improve healthcare outcomes, stakeholders can contribute to the greater good and positively impact the lives of patients and their families.</li>
 </ul>
 </p>
+<br>
+## How are MRI Images classified before training and validation?
+An MRI image to the current model is <i>A picture that is worth one word; either <b>YES</b>, or <b>NO</b>. Therefore, the images were separated into two sets; YES and NO, to help better prepare the model for training and validation.</i>
 
+![image](https://github.com/anvadev/BR35H_Brain_Tumor/assets/50537930/58a20708-3198-42ce-9e8e-28571ec30b40)
+
+As you can see, the images have been properly classified to their respective diagnosis. With this in mind, it can help better train the model to detect unforeseen images, assuming the model is functioning properly. 
 ***
 
 _<p align="center">End of document</p>_
