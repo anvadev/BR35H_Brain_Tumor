@@ -76,6 +76,11 @@ An MRI image to the current model is <i>A picture that is worth one word; either
 ![image](https://github.com/anvadev/BR35H_Brain_Tumor/assets/50537930/58a20708-3198-42ce-9e8e-28571ec30b40)
 
 As you can see, the images have been properly classified to their respective diagnosis. With this in mind, it can help better train the model to detect unforeseen images, assuming the model is functioning properly. 
+
+<b>Presentation:</b> <br>
+[LINK]
+<b>Contributors:</b> <br>
+https://github.com/anvadev/
 ***
 
 _<p align="center">End of document</p>_
