@@ -1,6 +1,5 @@
 ***
 # <p align="right"> BRAIN TUMOR DETECTION</p>
-### <p align='right'> Capstone Phase 5 Project</p>
 
 ### <p align = 'right'> Name: Ansel Vallejo </p>
 
