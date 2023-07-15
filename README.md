@@ -78,7 +78,8 @@ An MRI image to the current model is <i>A picture that is worth one word; either
 As you can see, the images have been properly classified to their respective diagnosis. With this in mind, it can help better train the model to detect unforeseen images, assuming the model is functioning properly. 
 
 <b>Presentation:</b> <br>
-[LINK]
+https://github.com/anvadev/BR35H_Brain_Tumor/blob/main/FINAL_MODEL_DRAFT.ipynb <br>
+<br>
 <b>Contributors:</b> <br>
 https://github.com/anvadev/
 ***
