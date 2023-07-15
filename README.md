@@ -76,8 +76,17 @@ An MRI image to the current model is <i>A picture that is worth one word; either
 
 As you can see, the images have been properly classified to their respective diagnosis. With this in mind, it can help better train the model to detect unforeseen images, assuming the model is functioning properly. 
 
+## Model Architecture
+<p align="justify">
+The code represents a convolutional neural network (CNN) architecture for image classification. It starts with a convolutional layer with 32 filters followed by the ReLU activation function. Max pooling is then applied to reduce spatial dimensions. The output is flattened and connected to a fully connected layer with 16 neurons and the ReLU activation function. Dropout regularization is used to prevent overfitting. A final fully connected layer with a single neuron and a sigmoid activation function is added for binary classification. The model is compiled with the binary cross-entropy loss function, Adam optimizer, and accuracy metric. This architecture combines convolutional and fully connected layers to extract features and classify images effectively.
+</p>
+
+
+<b>Notebook:</b> <br>
+https://github.com/anvadev/BR35H_Brain_Tumor/blob/main/02_brain_tumor_classification_FINAL_MODEL.ipynb <br>
+<br>
 <b>Presentation:</b> <br>
-https://github.com/anvadev/BR35H_Brain_Tumor/blob/main/FINAL_MODEL_DRAFT.ipynb <br>
+https://github.com/anvadev/BR35H_Brain_Tumor/blob/main/Brain_Tumor_Detection_Presentation.pptx <br>
 <br>
 <b>Contributors:</b> <br>
 https://github.com/anvadev/
